@@ -29,6 +29,14 @@
 - After running the application, access the system via a web browser at `http://localhost:8080` (or any other configured port).
   
 ## Screenshots
+Here are some screenshots of the **MOS Burger** system in action:
+
+![Home Page Screenshot](ssLogin.png)  
+*Login Page*
+
+![Order Management Screenshot](pos.png)  
+*Order Management Page*
+
 
 ## Contributing
 
